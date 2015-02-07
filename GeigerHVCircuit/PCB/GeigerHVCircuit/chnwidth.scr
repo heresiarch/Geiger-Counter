@@ -1,0 +1,17 @@
+TEXT 'CHNWIDTH.ULP Version 1.1
+TEXT 'EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+TEXT 'exported from C:/workspaces/Geiger/GeigerHVCircuit/PCB/GeigerHVCircuit/GeigerHVCircuit.brd
+TEXT ' at 10/2/2011 2:29:50 PM
+
+TEXT 'This Script changed Wire Width between 0.000 MM and 130.750 MM to 0.900 MM
+EDIT C:/workspaces/Geiger/GeigerHVCircuit/PCB/GeigerHVCircuit/GeigerHVCircuit.brd
+GRID MM;
+DISPLAY NONE 16 ;
+CHANGE WIDTH 0.900 (66.040 64.770);
+CHANGE WIDTH 0.900 (76.200 58.420);
+CHANGE WIDTH 0.900 (70.485 60.960);
+CHANGE WIDTH 0.900 (81.280 56.515);
+CHANGE WIDTH 0.900 (33.655 49.530);
+CHANGE WIDTH 0.900 (60.960 59.055);
+DISPLAY 17 18 20 21 22 16 
